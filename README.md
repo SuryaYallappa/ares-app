@@ -74,7 +74,3 @@ Stop the project:
 ```bash
 docker compose down
 ```
-
-## Full Documentation
-
-See [DOCUMENTATION.md](DOCUMENTATION.md) for the full project explanation, architecture, commands, and complete screenshot gallery.
